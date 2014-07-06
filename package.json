@@ -1,0 +1,16 @@
+{
+    "name": "formida",
+    "description": "formida",
+    "version": "0.0.0",
+    "author": {
+        "name": "serandives",
+        "email": "serandives@gmail.com"
+    },
+    "dependencies": {
+        "formidable": "1.0.15"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/serandules/formida.git"
+    }
+}
