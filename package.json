@@ -7,6 +7,7 @@
         "email": "serandives@gmail.com"
     },
     "dependencies": {
+        "logger": "serandules/logger#master",
         "debug":"*",
         "formidable": "1.0.15"
     },
