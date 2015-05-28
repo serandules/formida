@@ -1,4 +1,4 @@
-var debug = require('debug')('serandules:formida');
+var log = require('logger')('formida');
 var formidable = require('formidable');
 var IncomingForm = formidable.IncomingForm;
 var StringDecoder = require('string_decoder').StringDecoder;
